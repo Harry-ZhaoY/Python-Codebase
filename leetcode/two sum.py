@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  5 23:22:52 2019
-
-@author: harry
-"""
 class Solution(object):
     def twoSum(self, nums, target):
         """
