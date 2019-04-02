@@ -1,3 +1,7 @@
+# Given a ascending list of integers - nums, and a integer target: 
+# return the index of the target if the target is in the nums, OR
+# return the index the target should hold if the target is not in nums.
+
 class Solution(object):
     def twoSum(self, nums, target):
         """
